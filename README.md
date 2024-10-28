@@ -3,7 +3,7 @@
 
 **COMPANY** : CODTECH IT SOLUTIONS
 
-**ID** :  
+**ID** :  CT08DS8782
 
 **DOMAIN** : Web Development
 
@@ -21,6 +21,9 @@
 
 ### OBJECTIVE :
 The To-Do List App is a web-based application designed to help users manage their tasks efficiently. 
+
+![Screenshot 2024-10-24 215317](https://github.com/user-attachments/assets/160d406a-fd61-41e5-8ae9-bddf72e42316)
+
 
 
 ### KEY ACTIVITIES
